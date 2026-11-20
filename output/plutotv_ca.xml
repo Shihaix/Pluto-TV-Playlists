@@ -18632,6 +18632,11 @@ more than he bargained for.</desc>
         <desc>From Bernard Gasset 07 Stadium in Montpellier, Hérault, France.</desc>
         <icon src="https://images.pluto.tv/series/6ae3cc3d9abe27364cd085eb/tile_1793313854403.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="66fd394e9269330008413302" start="20261120195800 +0000" stop="20261120220000 +0000">
+        <title>Division 1 Feminine</title>
+        <desc>From Stadium of Toulouse in Toulouse, Midi-Pyrenees, France.</desc>
+        <icon src="https://images.pluto.tv/series/6ae3cc3d9abe27364cd085eb/tile_1793313854403.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="671645c4529ac900080c9a0b" start="20261120130000 +0000" stop="20261120180000 +0000">
         <title>Darts</title>
         <desc>Women's Week 6: Group C, Day Two.</desc>
@@ -46341,6 +46346,11 @@ more than he bargained for.</desc>
         <title>Eye See You</title>
         <desc>In this twisting cop thriller, an alcoholic detective (Sylvester Stallone) is sent to a remote detox clinic after a serial killer targets his friends and family.</desc>
         <icon src="https://images.pluto.tv/series/67339bdc882f6d0013472457/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69a9ae4d3bd16a4ed04240d7" start="20261121111400 +0000" stop="20261121132800 +0000">
+        <title>Criminal Law</title>
+        <desc>Attorney Oldman successfully defends accused killer Kevin Bacon. It is only after proving his client's innocence by discrediting eyewitness, that Oldman discovers Bacon is guilty--and intends to kill again.</desc>
+        <icon src="https://images.pluto.tv/series/6aa40fbb7102b85b825132b6/tile_1789136828490.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="6a28960eee86450920a1cab3" start="20261121065600 +0000" stop="20261121084200 +0000">
         <title>Sins of the Night</title>
